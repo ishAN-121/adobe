@@ -96,14 +96,14 @@ def main(
     temperature: float = 0.9,
     top_p: float = 0,
     max_seq_len: int = 512,
-    max_batch_size: int = 32,
+    max_batch_size: int = 1,
     quantizer: bool = False,
 ):
     local_rank, world_size = setup_model_parallel()
     if local_rank > 0:
         sys.stdout = open(os.devnull, "w")
 
-    pre_prompts = json.load(open("output_content_time.json"))
+    pre_prompts = json.load(open("test.json"))
     print(len(pre_prompts))
     generator = load(ckpt_dir, tokenizer_path, adapter_path, local_rank, world_size, max_seq_len, max_batch_size, quantizer)
     prompts = [PROMPT_DICT["prompt_input"].format_map({"instruction": x["instruction"], "input": x["input"]}) for x in pre_prompts]
@@ -118,7 +118,7 @@ def main(
     stop_time = time.time()
     print(f"Generated {len(results)} in {stop_time - start_time:.2f} seconds")
     df = pd.DataFrame({'content': results})
-    df.to_csv('company_time.csv')
+    df.to_json('company_time.json',orient='records')
     print("\n==================================\n")
 
 
