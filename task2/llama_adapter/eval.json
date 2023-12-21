@@ -1,0 +1,502 @@
+[
+    {
+        "input": "[image description tim hortons sunday morning special, expected likes 1, username TimHortonsPH, company tim hortons, date and time 2020-12-12 0AM,\n    day Saturday, location Republic of the Philippines, description Welcome to the official account of Tim Hortons Philippines, where our tweets are always fresh.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Spend your weekend morning with a Ham, Egg, and Cheese Wrap paired with a sweet Iced French Vanilla! \u2600\ufe0f Order yours now via dine-in, takeout, and delivery. #TimHortonsPH <hyperlink>"
+    },
+    {
+        "input": "[image description a young man with dreadlocks on a microphone, expected likes 2750, username IndyMusic, company independent, date and time 2018-06-30 10AM,\n    day Saturday, location London, description Music news, reviews, and feature stories from @Independent.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Watch rapper <mention> freestyle for over an HOUR <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a soldier is seen in a photo taken on may 1, 2014, and released by the u, expected likes 57, username CBCCanada, company cbc, date and time 2020-09-29 7PM,\n    day Tuesday, location Canada, description Canadian news and features, and the Politics Bytes blog from CBCNews.ca]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Canadian Armenian community demands ban on military drone tech exports to Turkey <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description many people are on the beach, expected likes 152, username MKWilliamsRome, company williams, date and time 2020-10-01 11AM,\n    day Thursday, location nan, description On the radio & TV & write about Italy, Europe & beyond for CBC. James Beard, UN & NYFests\ud83c\udfc6Author Saving Rome. Insta@ megan.thee.italian. Tweets my own.\ud83c\uddee\ud83c\uddf9\ud83c\udde8\ud83c\udde6]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "1st in Europe to be devastated by COVID-19, Italy redoubled its efforts, and they're now paying off. My latest. \ud83d\udc47\ud83c\udffc\ud83d\udc47\ud83c\udffc\n<hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a man and a woman standing in front of a crowd, expected likes 41, username BGISD, company independent, date and time 2018-10-19 2PM,\n    day Friday, location Bowling Green, Kentucky, description Every day, accomplishments of students and employees provide evidence of the district\u2019s motto: \u201cExcellence is Worth the Effort.\u201d]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Congratulations to Pauletha Butts of <mention>! She was presented a Beyond the Call Award for her leadership and planning last week\u2019s Cultural Diversity Night! #excellenceisworththeeffort <hyperlink>"
+    },
+    {
+        "input": "[image description three men and a woman standing in front of a large screen, expected likes 0, username IndependentNGR, company independent, date and time 2019-10-24 10AM,\n    day Thursday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "LASU Celebrates New Dawn Of Unbroken Peace As Law Faculty Presents Book On Fagbohun <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description an elderly man is being escorted by police officers, expected likes 572, username cnni, company cnn, date and time 2019-03-27 12AM,\n    day Wednesday, location Everywhere, description Breaking news from around the world, plus business, style, travel, sport and entertainment. We #gothere.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "A 95-year-old World War II veteran says he was so saddened by the horrific mosque attacks in Christchurch, New Zealand, that he took four buses to attend a solidarity march against racism in Auckland. <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description actors wearing masks and standing on stage, expected likes 127, username GettyVIP, company getty images, date and time 2020-08-01 5AM,\n    day Saturday, location Global, description A view of entertainment and fashion events around the globe || For more of the world\u2019s best images visit @GettyImages @GettyImagesNews @GettySport]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Nicholas Hoult, Charlize Theron, and Aisha Tyler on stage at a drive-in screening of \"Mad Max: Fury Road\" benefiting the Charlize Theron Africa Outreach Project at The Grove on July 31 in Los Angeles.\n\nMore \ud83d\udcf8 #CharlizeTheron \ud83d\udc49 <hyperlink>\n#MadMax #MadMaxFuryRoad <hyperlink>"
+    },
+    {
+        "input": "[image description a man in a suit is standing at a podium, expected likes 2, username McAfee, company mcafee, date and time 2019-08-07 7PM,\n    day Wednesday, location Worldwide, description We make life online safe and enjoyable for everyone. For help \ud83d\udcbb\ud83d\udcf1reach out to @McAfee_Help]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": ".<mention> takes the stage at #BHUSA to talk about #IoT and the state of security. <hyperlink>"
+    },
+    {
+        "input": "[image description an energy meter with a red sticker on it, expected likes 0, username MitsubishiHVAC, company trane, date and time 2020-11-18 0AM,\n    day Wednesday, location Suwanee, GA, USA, description Leading manufacturer of innovative HVAC: #heatpumps + #VRF in the US & Latin America. #HeatPumpNation #DesignedforLifeHVAC #VRFnation Customer Care 800-433-4822]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "#NetZeroHomes: learn the best way to get to zero, from a program, product &amp; builder perspective. November 18th webinar details: <hyperlink> Pictured is 10 megawatt-hours of solar energy that are been exported to the grid at the home of our CEO, Mark Kuntz. <hyperlink>"
+    },
+    {
+        "input": "[image description a group of people holding up a trophy, expected likes 670, username CNN, company cnn, date and time 2018-11-20 11PM,\n    day Tuesday, location nan, description It\u2019s our job to #GoThere & tell the most difficult stories. For breaking news, follow @CNNBRK and download our app https://t.co/ceNBoNi8y6]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Survivors of the Parkland shooting were awarded the 2018 International Children's Peace Prize in Cape Town, South Africa. Archbishop Desmond Tutu presented the prize to David Hogg, Emma Gonz\u00e1lez, Jaclyn Corin and Matt Deitsch. <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description None, expected likes 4, username ToyotaShowcase, company toyota, date and time 2018-02-17 8PM,\n    day Saturday, location nan, description nan]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Be bold and take your shot. Who knows where the road will take you. #LetsGoPlaces <hyperlink>"
+    },
+    {
+        "input": "[image description a woman wearing a t - shirt that says selfmade woman, expected likes 0, username IndependentNGR, company independent, date and time 2020-03-03 7PM,\n    day Tuesday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Linda Ikeji Partners ECOBANK To Empower Young Ladies <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a man and woman standing in front of a large screen with the words aladdin, expected likes 1138, username cnnphilippines, company cnn, date and time 2019-05-10 12AM,\n    day Friday, location Philippines, description News you can trust. @cnnphlife @sportsdeskph]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "LOOK: World-class singers Darren Espanto <mention> and Morissette <mention> sing the Philippine rendition of the Disney classic song 'A Whole New World' | <mention>  \n\n\ud83d\udcf8 <mention> <hyperlink>"
+    },
+    {
+        "input": "[image description a man is standing at a podium in front of a large screen with the words investing in miss, expected likes 118, username MFG_GM, company general motors, date and time 2019-12-13 8PM,\n    day Friday, location USA, description Committed to #USManufacturing, we share @GM #mfg news, spotlight employees, new tech & trends. Privacy Statement: https://t.co/CNPFy5sRk5]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": ".<mention> is investing $1.5 billion into next-gen pickups with a majority going into our #GMWentzville plant to upgrade and prepare the facility. This investment will retain more than 4,000 good paying #USManufacturing jobs. Learn more here: <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a man in a suit and tie speaking into a microphone, expected likes 907, username cnnbrk, company cnn, date and time 2018-11-21 6PM,\n    day Wednesday, location Everywhere, description Breaking news from CNN Digital. Now 64M strong. Check @cnn for all things CNN, breaking and more. Download the app for custom alerts: https://t.co/8bf79vV51N]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Supreme Court Chief Justice John Roberts makes a rare statement to rebuke President Trump's criticism of \"Obama judge\" <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a woman holding a trophy in front of an american flag, expected likes 120, username GettySport, company getty images, date and time 2018-09-11 2PM,\n    day Tuesday, location Global, description Follow us \u27a1\ufe0f https://t.co/gKZISxVaIc]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Tournaments come and go, but the pictures are forever.\n\nThe best of the 2018 <mention>: <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description an older man in a suit waving his hand, expected likes 1309, username cnnbrk, company cnn, date and time 2020-02-23 2PM,\n    day Sunday, location Everywhere, description Breaking news from CNN Digital. Now 64M strong. Check @cnn for all things CNN, breaking and more. Download the app for custom alerts: https://t.co/8bf79vV51N]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Twitter suspends 70 pro-Bloomberg accounts for violating its rules <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a woman walking her dog in the woods, expected likes 78, username MayoClinic, company mayo clinic, date and time 2020-07-19 0AM,\n    day Sunday, location Minnesota, Florida, Arizona, description An integrated clinical practice, education and research institution specializing in treating patients. Account maintained by @MayoClinic.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Many people are understandably anxious to get outdoors in light of quarantines. Do it safely with these tips for #outdoor activities: <hyperlink> #COVID19 <hyperlink>"
+    },
+    {
+        "input": "[image description a man sitting in a chair with a sign that says block access to staff, expected likes 961, username LisaDNews, company desjardins, date and time 2018-09-26 4PM,\n    day Wednesday, location Washington, DC, description My cat's name is Rocky. I'm a Correspondent, PBS NewsHour. Happy, grateful nerd. Remains a faithful Chester Arthur fan. Former Blue Check.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "ALSO NOW (yes it's wild here today): Sen Merkley announcing he has filed a lawsuit challenging Trump admin's lack of release of some Kavanaugh documents as violating balance of powers and unconstitutional. <hyperlink>"
+    },
+    {
+        "input": "[image description star wars battlefront ii, expected likes 20, username Walmart, company walmart, date and time 2019-06-13 6PM,\n    day Thursday, location nan, description Welcome to your #Holideasy era. \u2018Tis the season to save big! \ud83c\udf81\ud83d\ude0e Customer support questions? @WalmartHelp]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "We got a sneak peek at Star Wars Jedi: Fallen Order at #E32019, and we can already feel The Force flowing through us. Read about it on the blog and preorder today. <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a text message from a person who is writing about their life, expected likes 352, username Nico_Lang, company ups, date and time 2020-06-10 10PM,\n    day Wednesday, location Not here, description Moving away from Twitter. Find me elsewhere. (they/them)]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Here is <mention>'s most recent statement about JK Rowling, and as a quasi-award winning editor, I am partially qualified to say that the lede is *delicious.*\n\n\u201cIt seems JK is good at only one thing: writing fantasy.\" <hyperlink>"
+    },
+    {
+        "input": "[image description a woman holding a book next to a christmas tree, expected likes 153, username KateWilliamsme, company williams, date and time 2019-12-23 10AM,\n    day Monday, location London, description Author, historian, novelist. History Prof Reading. Secrets of the Royal Palaces on now @channel5-tv]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Now in 1542, #MaryQueenofScots has been queen for nine days....but she\u2019s only fifteen days old....and the lords whom her father, James V, could barely control while he was alive are circling to depose the baby queen. Read here. Last minute present! <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description an illustration of a dinosaur with chinese writing, expected likes 567, username MHinfo_en, company monster, date and time 2020-11-10 3AM,\n    day Tuesday, location nan, description The official Twitter account for Monster Hunter info. Visit @MonsterHunter to learn more! ESRB:TEEN with Blood, Mild Language, Use of Alcohol, Violence.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Monster Hunter Rise Concept Art: Great Izuchi.\nThe leader of the pack inspired by the Japanese Yokai \"Kamaitachi\".\n#MHRise <hyperlink>"
+    },
+    {
+        "input": "[image description the quote is from the movie, the great gatsby, expected likes 1, username UnitedRentals, company united rentals, date and time 2018-11-29 10PM,\n    day Thursday, location Stamford, Connecticut, description The official Twitter account for United Rentals, Inc. the largest equipment rental company, with 1200+ rental locations throughout North America & Europe.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "With our #SalesDevelopmentProgram, you'll learn persuasive selling skills and harness the power of negotiation. Check out this clip to hear more: <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a man in a red dress is holding a gold stick, expected likes 0, username IndependentNGR, company independent, date and time 2019-11-06 1AM,\n    day Wednesday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Amidst Royal Rumble ln Onicha-Olona Kingdom In Delta, Monarch Gets Staff Of Office <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description four different pictures of drivers, expected likes 168, username WilliamsRacing, company williams, date and time 2020-03-26 10AM,\n    day Thursday, location Oxfordshire, UK, description Welcome to Williams Racing, competing in Formula One since 1977 \ud83d\udc99]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Into the semi-finals!\n\nWhat are your fondest memories of these four drivers in Williams machinery and who will you choose to advance to the final? \ud83e\udd14\n\n#WeAreWilliams \ud83d\udc99 <hyperlink>"
+    },
+    {
+        "input": "[image description a woman in a lab coat holding a bottle of wine, expected likes 100, username CBCNB, company cbc, date and time 2020-03-22 11AM,\n    day Sunday, location Fredericton, description Facebook:  https://t.co/6BB0LaIJeU Instagram:  cbcnewbrunswick \nSnapchat:   cbcnb]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Move over, gin. Distillery moves to producing hand sanitizer to fight COVID-19: <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a man in a red outfit and a man in a white outfit, expected likes 0, username IndependentNGR, company independent, date and time 2020-05-18 3PM,\n    day Monday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Benin Palace Announces Arrival Of New Prince <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a toyota suv driving through a muddy field, expected likes 10, username Toyota_Fortuner, company toyota, date and time 2019-07-05 11AM,\n    day Friday, location India, description Re-define the very way you move with the Art Of Power where luxury , ruggedness & power gain a whole new artistic expression.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Sandy, muddy terrain exploration? Yes \u2013 we\u2019ve got you covered. Visit <hyperlink> to know more! #ToyotaFortuner <hyperlink>"
+    },
+    {
+        "input": "[image description anita waltz, president and ceo of waltz & co, expected likes 4, username ToyotaSD, company toyota, date and time 2020-03-11 8PM,\n    day Wednesday, location Saline, MI, description Toyota is committed to building a more inclusive supplier base that reflects the diversity of its team members, customers & the communities we serve. #ToyotaSD]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Toyota Motor North America Chief Diversity Officer Sandra Phillips Rogers on Diversity and Inclusion -&gt; <hyperlink> #Toyota #Diversity #Inclusion <hyperlink>"
+    },
+    {
+        "input": "[image description None, expected likes 0, username AAAOklahoma, company aaa, date and time 2018-10-03 10PM,\n    day Wednesday, location Oklahoma, description We\u2019ve moved! Follow us at @AAAClubAlliancefor the latest updates on our around the clock extensive services. Please follow @AAAOKNews for local updates.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Things change. We\u2019ll be there for you when they do. Visit <hyperlink> to learn more. #AAAInsurance <hyperlink>"
+    },
+    {
+        "input": "[image description a book of birds and flowers, expected likes 3, username HobbyLobby, company hobby lobby, date and time 2018-08-02 6PM,\n    day Thursday, location nan, description Hobby Lobby is an industry leading retailer offering more than 70,000 arts, crafts, hobbies, home d\u00e9cor, holiday, and seasonal products.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Take some time for you today on #NationalColoringBookDay! <hyperlink>"
+    },
+    {
+        "input": "[image description a young man in a black suit and sunglasses, expected likes 189, username WilliamsRacing, company williams, date and time 2019-08-30 12AM,\n    day Friday, location Oxfordshire, UK, description Welcome to Williams Racing, competing in Formula One since 1977 \ud83d\udc99]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Suit up, <mention>! \n\n#GR63 back in the car for #FP2 \n\n#BelgianGP \ud83c\udde7\ud83c\uddea <hyperlink>"
+    },
+    {
+        "input": "[image description two men shaking hands in a room, expected likes 1, username IndependentNGR, company independent, date and time 2019-12-09 4PM,\n    day Monday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Things To Know About New FIRS Chairman <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a stage with smoke coming from it, expected likes 2, username NH7, company bacardi, date and time 2019-01-19 3PM,\n    day Saturday, location India, description The happiest music festival 1st-3rd December, Pune #ItsAMood]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Can you spot <mention> killing it on stage? #BacardiNH7 <hyperlink>"
+    },
+    {
+        "input": "[image description a group of people dressed in costumes, expected likes 4, username AMCtvUK, company amc, date and time 2019-09-21 10AM,\n    day Saturday, location nan, description nan]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "They are so sweet when they are young \u263a\ufe0f #NOS4A2 <hyperlink>"
+    },
+    {
+        "input": "[image description the dna difference, expected likes 0, username CiscoCanada, company cisco, date and time 2018-01-26 2AM,\n    day Friday, location Canada, description We securely connect everything to make anything possible. Nous relions tout en s\u00e9curit\u00e9 pour tout rendre possible. For service / Service : @HeyCisco \ud83d\udcf1]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "#CiscoDNA Center\u200b = Happy and productive Network Engineer <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description two fighter jets flying in the sky, expected likes 1398, username cnnbrk, company cnn, date and time 2019-08-08 6PM,\n    day Thursday, location Everywhere, description Breaking news from CNN Digital. Now 64M strong. Check @cnn for all things CNN, breaking and more. Download the app for custom alerts: https://t.co/8bf79vV51N]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "US and Canadian fighter jets intercept two Russian long-range, nuclear-capable bombers off the coast of Alaska\n<hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description cnn's covid-19 crisis in the philippines, expected likes 704, username cnnphilippines, company cnn, date and time 2020-03-22 2AM,\n    day Sunday, location Philippines, description News you can trust. @cnnphlife @sportsdeskph]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "The number of people with the coronavirus disease in the Philippines jumps further to 380.\n\nBut two more have recovered, bringing the total recoveries to 15 <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a quote that says this business was built on a foundation of values, expected likes 133, username AmwayUS, company amway, date and time 2018-02-19 4PM,\n    day Monday, location 49355, description Inspiring healthier, more empowered lives through everyday nutrition, beauty, personal care + home products. Follow along to learn more.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Freedom | Family | Hope | Reward\nA \ud83d\udcaa foundation is everything in business. And these values are what keep Amway and Independent Business Owners moving in the right direction. #amwayvalues <hyperlink>"
+    },
+    {
+        "input": "[image description a group of people eating pizza, expected likes 1, username ShopRiteStores, company shoprite, date and time 2019-04-07 1PM,\n    day Sunday, location nan, description There are more than 270 ShopRite supermarkets in NJ, NY, CT, DE, PA. and MD. Customer Care: 1-800-SHOPRITE Facebook: https://t.co/7ngbuJRRgp]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "The Let's Dine In Gift Card Promo is on! Valid Sunday, April 7, 2019 thru Saturday, April 13, 2019. Visit <hyperlink> for details! <hyperlink>"
+    },
+    {
+        "input": "[image description a man in a wheelchair is sitting in an office, expected likes 1308, username redbullracing, company oracle, date and time 2018-01-16 3PM,\n    day Tuesday, location Worldwide, description Currently \ud83d\udc49 at home \ud83c\udfe0 #GivesYouWings]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "The Bulls are going a little stir crazy... \ud83d\ude02 #PushTheBoundaries <hyperlink>"
+    },
+    {
+        "input": "[image description a woman in a red shirt is smiling while holding a cup of coffee, expected likes 103, username Shell, company shell, date and time 2020-06-17 1PM,\n    day Wednesday, location nan, description Shell\u2019s official account.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "\u26fd \ud83c\udf6b From fuel, drinks and snacks\n\ud83c\udf4e \ud83d\udca7 To fruit, vegetables and hand sanitiser\n\nTeams at Shell service stations around the world have seen customer needs change during the #COVID19 lockdown. Discover how they took on the challenge: <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a woman on a laptop with the words cisco connect canada on demand library, expected likes 0, username CiscoCanada, company cisco, date and time 2020-12-21 4PM,\n    day Monday, location Canada, description We securely connect everything to make anything possible. Nous relions tout en s\u00e9curit\u00e9 pour tout rendre possible. For service / Service : @HeyCisco \ud83d\udcf1]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Missed #ConnectCanada?! We have you covered. Check out the on-demand library for all of Cisco's thought leadership and awesome partner and guest content. Watch now \ud83d\udcbb \u27a1\ufe0f <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a book with a quote from rick carlson, expected likes 421, username poornabell, company bell, date and time 2019-11-08 9AM,\n    day Friday, location London, description Award-winning journalist & author, public speaker, powerlifter, mental health advocate. Lit agent @rowan_lawton Management: Siren Talent Ambassador @thecalmzone]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "I don\u2019t think that I will ever stop being grateful that Nick Cave let me use his words, which is one of the most true, beautiful, hopeful things I\u2019ve read on grief, in my book In Search of Silence. <hyperlink>"
+    },
+    {
+        "input": "[image description a woman wearing a t shirt with the words i really care do not care, expected likes 2009, username CNN, company cnn, date and time 2018-06-23 10PM,\n    day Saturday, location nan, description It\u2019s our job to #GoThere & tell the most difficult stories. For breaking news, follow @CNNBRK and download our app https://t.co/ceNBoNi8y6]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "T-shirt makers are riffing on Melania Trump's jacket and donating the proceeds to refugee services <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a tweet from katy griffin about the election, expected likes 252, username w_terrence, company williams, date and time 2019-01-06 3AM,\n    day Sunday, location United States, description Comedian & Founder of https://t.co/FMKlaiPAtk and The Host of Terrence K. Williams Podcast \ud83c\udf99\ufe0fSubscribe \ud83d\udc47]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "<mention> <mention> Didn\u2019t know that! But she is telling people to Suck D**K so how was i supposed to know <hyperlink>"
+    },
+    {
+        "input": "[image description australia v kiwi basketball - vk, expected likes 67, username EuroLeague, company turkish airlines, date and time 2019-02-25 4PM,\n    day Monday, location Europe, description The official page of the Turkish Airlines EuroLeague]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Ready to relight the \ud83d\udd25 <hyperlink>"
+    },
+    {
+        "input": "[image description a cartoon of a man in a suit with a flag and a rhino, expected likes 218, username RadioFreeAsia, company free, date and time 2019-03-04 9PM,\n    day Monday, location Washington, DC, description Delivering reliable, uncensored news and providing an open forum for citizens in Asian countries that restrict media, free press and free speech.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "President Xi Jinping faces economic threats on all sides as China opens its annual legislative sessions. <hyperlink>"
+    },
+    {
+        "input": "[image description the rugby league program is available online, expected likes 6, username CheetahsRugby, company toyota, date and time 2018-04-13 8AM,\n    day Friday, location Bloemfontein, South Africa, description Official Twitter Page of TOYOTA CHEETAHS \nEstablished in 1895]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Get your online match day program here  \ud83d\udc49 <hyperlink>\n\n#CHEvsMUN #GUINNESSPRO14 #OrangePride <hyperlink>"
+    },
+    {
+        "input": "[image description a man holding a stanley cup in front of a crowd, expected likes 168, username freep, company free, date and time 2019-06-04 4PM,\n    day Tuesday, location Detroit, description Award-winning local news and analysis from Detroit, Michigan // On Guard since 1831.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Fun fact: Today marks 11 years since Detroit last won a major professional sports championship. \n\n(\ud83d\udcf7: Julian H. Gonzalez) <hyperlink>"
+    },
+    {
+        "input": "[image description the logo of the nigerian army, expected likes 0, username IndependentNGR, company independent, date and time 2020-04-02 8AM,\n    day Thursday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "COVID-19 lockdown: DHQ Dismisses Torture Videos <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description two pictures of two men in military uniforms, expected likes 677, username cnnbrk, company cnn, date and time 2020-05-15 5PM,\n    day Friday, location Everywhere, description Breaking news from CNN Digital. Now 64M strong. Check @cnn for all things CNN, breaking and more. Download the app for custom alerts: https://t.co/8bf79vV51N]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "President Trump has named former pharmaceutical executive Moncef Slaoui and Army Gen. Gustave Perna to lead \"Operation Warp Speed,\" the effort to develop a coronavirus vaccine <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description microsoft cloud ai research challenge, expected likes 50, username MSFTResearch, company microsoft, date and time 2018-02-09 7PM,\n    day Friday, location nan, description Advancing technology to benefit humanity.\nhttps://t.co/kz0nARXbwT\n\u2b07\ufe0f Sign up for our newsletter]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "You could win $25,000 for creating a working, interactive software application using Microsoft #AI services. The deadline for students &amp; academic faculty to apply for Cloud AI resources is February 15th. Learn more: <hyperlink> #datascience  #Azure #machinelearning <hyperlink>"
+    },
+    {
+        "input": "[image description a rainbow over a mountain in the faroe islands, expected likes 56, username bing, company microsoft, date and time 2020-07-29 5PM,\n    day Wednesday, location Redmond, WA, description Your AI-powered copilot for the web]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "The Kallur Lighthouse stands watch from its perch on Kalsoy Island in the Faroe Islands, where today residents are celebrating \u00d3lavs\u00f8ka\u2014the summer festival that doubles as a national holiday. <hyperlink>"
+    },
+    {
+        "input": "[image description a person feeding a beluga whale, expected likes 61, username CBCPolitics, company cbc, date and time 2019-04-03 8PM,\n    day Wednesday, location Ottawa, description This account is inactive.\n\n(photo: Patrick Morrell/CBC)]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Ban on whale, dolphin captivity poised to become law in Canada <hyperlink> #hw #cdnpoli <hyperlink>"
+    },
+    {
+        "input": "[image description a man in a suit and tie, expected likes 0, username IndependentNGR, company independent, date and time 2019-09-14 11PM,\n    day Saturday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Aleph Hospitality Signs Pact For New Protea Hotel In Kenya <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description chips and other snacks are displayed on a wooden table, expected likes 16, username Walmart, company walmart, date and time 2020-08-06 5PM,\n    day Thursday, location nan, description Welcome to your #Holideasy era. \u2018Tis the season to save big! \ud83c\udf81\ud83d\ude0e Customer support questions? @WalmartHelp]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "<mention> <mention> No comment. Alright, alright. Bold and Cheesy, Flamin\u2019 Hot and Cheesy Jalapeno Cheetos Mac \u2018n Cheese are hitting Walmart shelves on 8/8. <hyperlink>"
+    },
+    {
+        "input": "[image description a group of people sitting at a desk in front of a computer, expected likes 970, username METROFMSA, company sabc, date and time 2018-05-18 2PM,\n    day Friday, location South Africa, description South Africa's number 1 Urban Radio Station broadcasting across South Africa on FM Stereo and also on the DSTV Bouquet Channel 801.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "The #gqomQueen herself <mention> in stu with #theDriveOnMetro  <mention> <mention> \ud83d\udcde089 110 33 77/ voice-notes to 071 585 6157 <hyperlink>"
+    },
+    {
+        "input": "[image description what can greater line flexibility do for you?, expected likes 2, username EMR_Automation, company emerson, date and time 2018-09-12 9PM,\n    day Wednesday, location Worldwide, description Emerson's automation technologies & solutions combined with expertise, helps you take on your toughest challenges & bring predictable success #PAuto $EMR]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Emerson can cost-effectively improve a line\u2019s flexibility. Register for a free exhibit area pass #PACKEXPO Booth N-4721 <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description several sticky notes with the words i am not, expected likes 0, username ciscoapac, company cisco, date and time 2018-06-01 3AM,\n    day Friday, location Republic of Singapore, description Official twitter page of Cisco in Asia Pacific.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "It\u2019s #FriYay #secret: Our favorite puzzle is trying to work out the parts ourselves. What is Reverse Mentoring? Solve the puzzle! #reversementoring #wearecisco #culture #mentoring <mention> <hyperlink>"
+    },
+    {
+        "input": "[image description a man with long hair and a hat with the words i just keep walking and walking, expected likes 2, username OriginalFresca, company bacardi, date and time 2020-07-13 4PM,\n    day Monday, location New York, NY, description Chief Reporter @PageSix//\u201cWe Hear: Quick Fix\u201d podcast host//Tips: fbacardi@nypost.com]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "5 days later and I finally walked around the block once <hyperlink>"
+    },
+    {
+        "input": "[image description three men sitting at a desk, expected likes 1, username UnitedRentals, company united rentals, date and time 2019-01-14 10PM,\n    day Monday, location Stamford, Connecticut, description The official Twitter account for United Rentals, Inc. the largest equipment rental company, with 1200+ rental locations throughout North America & Europe.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "From #branch management to #operations, we have a variety of positions available in your area. Apply today: <hyperlink> #Jobs #Construction <hyperlink>"
+    },
+    {
+        "input": "[image description elon musk and mark zuckerberg, expected likes 0, username IndependentNGR, company independent, date and time 2020-02-10 11PM,\n    day Monday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Facebook Is Lame- Elon Musk <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a man in a police uniform and sunglasses, expected likes 47, username CBCToronto, company cbc, date and time 2018-11-09 7PM,\n    day Friday, location Toronto, description Your source for breaking, investigative & community news in the Greater Toronto Area. E-mail: torontotips@cbc.ca]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Judge calls Toronto police officer who ate cannabis chocolate on duty a 'complete idiot' <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description meet us at auspack melbourne convention centre, march 30-31, 2018, expected likes 2, username EMR_Automation, company emerson, date and time 2019-02-12 2AM,\n    day Tuesday, location Worldwide, description Emerson's automation technologies & solutions combined with expertise, helps you take on your toughest challenges & bring predictable success #PAuto $EMR]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Join us on March 26-29 at #AUSPACK2019, Australasia's all encompassing food, beverage, &amp; pharmaceutical processing and packaging event. Register at <hyperlink> and see you in booth H030. <hyperlink>"
+    },
+    {
+        "input": "[image description a man in a black shirt smiling, expected likes 1, username IndependentNGR, company independent, date and time 2019-12-03 9AM,\n    day Tuesday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Gov Wike Appoints 15 Special Advisers <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a view of the golf course at sunset, expected likes 1136, username NoLayingUp, company no, date and time 2019-08-29 4PM,\n    day Thursday, location Neptune Beach, FL, description Golf fanalysts. Podcast. #TourSauce founders. NLU Fam: @troncarternlu @bigrandynlu @ngschuNLU (merch ?'s) & @djpie. Tweets here by Soly. nolayingup@gmail.com]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "The No Laying Up Invitational: Scotland\n\n30 spots available (plus all of 5 of us). April 12-18, 2020.\n\nCrail\nEden\nJubilee\nNew\nOld\nCarnoustie\nPanmure\nElie\n\nDetails launching tomorrow at Noon ET. <hyperlink>"
+    },
+    {
+        "input": "[image description a group of women in uniform, expected likes 1, username IndependentNGR, company independent, date and time 2019-09-07 9PM,\n    day Saturday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Corp Member Sensitises Kaduna Drivers On Safety Measures <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a woman holding a lit candle, expected likes 104, username TD_Canada, company td, date and time 2018-11-07 5PM,\n    day Wednesday, location 1,100+ branches across Canada, description Connect with us 7-days a week from 8am \u2013 10pm EST. Follow us for TD news & info. Our disclaimer: https://t.co/OK3cAlyXf6]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "#HappyDiwali to all those celebrating! <hyperlink>"
+    },
+    {
+        "input": "[image description a man in a blue and white outfit, expected likes 0, username IndependentNGR, company independent, date and time 2019-11-22 11PM,\n    day Friday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "10 Years After, Oba Saheed Elegushi Remembers Late Dad <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description federal airport of nigeria, expected likes 0, username IndependentNGR, company independent, date and time 2020-03-17 10AM,\n    day Tuesday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Covid-19 Compels FAAN To Suspend National Aviation Conference <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a woman in a dress singing into a microphone, expected likes 72, username TargetCenterMN, company target, date and time 2019-06-22 2AM,\n    day Saturday, location Minneapolis, MN, description Official Twitter of Target Center arena in downtown Minneapolis. Home to @Timberwolves, @MinnesotaLynx, concerts, shows & more!]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "An amazing night with the incredible <mention> . \ud83d\udc9c #CryPrettyTour360 \n\n\ud83d\udcf8: <mention> <hyperlink>"
+    },
+    {
+        "input": "[image description a person's hand touching a car's touchscreen, expected likes 0, username DriveToyota, company toyota, date and time 2018-08-20 4PM,\n    day Monday, location nan, description Welcome to the official Drive Toyota Twitter page. Share your Toyota tales on our timeline\u2014and #LetsGoPlaces.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "With the #Corolla's available 7-in. touch-screen display, the whole world is at your fingertips. <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description laptop, notebook, and phone, expected likes 3, username EMR_Automation, company emerson, date and time 2019-03-20 9PM,\n    day Wednesday, location Worldwide, description Emerson's automation technologies & solutions combined with expertise, helps you take on your toughest challenges & bring predictable success #PAuto $EMR]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Attention students pursuing a career in the field of #IT: What you learn in the classroom doesn\u2019t always stack up in real life. Programmer, Candy Aisenbrey, dispels common myths &amp; provides practical tips for professional success in this #WomenInSTEM blog <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description the way back to the power of data beyond 2020, expected likes 3, username ciscoDC, company cisco, date and time 2020-08-05 4PM,\n    day Wednesday, location San Jose, CA, description Simplify IT. Unify the experience. \n#CiscoDCC #UnifiedExperiences]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Are you looking to harness the power of your company\u2019s data to create a better customer experience? If so, join us on August 13 to hear the LA <mention> CIO explain how they are doing it with the help of Cisco technologies! <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description but if virginia has learned anything about the past, it's that it's controlled by the, expected likes 176, username SallyLHudson, company hudson, date and time 2020-11-22 1PM,\n    day Sunday, location Charlottesville, VA, description serving Charlottesville & Albemarle in the Virginia House \ud83c\udfdb\ufe0f // economist \ud83d\udcc8 // @uva prof]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Guilty as charged, <mention>. Some of us wake up every day thinking about how to serve Virginia better. <hyperlink>"
+    },
+    {
+        "input": "[image description a woman wearing earphones and a neck pillow, expected likes 0, username AAAhoosier, company aaa, date and time 2020-06-18 4PM,\n    day Thursday, location Indiana, description Official Twitter account of AAA Hoosier Motor Club. Find your local club at http://t.co/fvzA3mKv]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Wondering what you should pack for your next flight? AAA Travel recommends these top 10 carry-on items.\n<hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description three men in a bar, expected likes 1059, username ShaneWilliams11, company williams, date and time 2019-02-23 11AM,\n    day Saturday, location Wales. Glanamman, description All these Useless Tweets and Opinions are my own! ; )\nInstagram: SHANEMWILLIAMS]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Great to be watching #WALvENG with the brothers from the <mention> ad. What a story. Come on Wales! #GuinnessSixNations <hyperlink>"
+    },
+    {
+        "input": "[image description buhari's speech at the national assembly, expected likes 0, username IndependentNGR, company independent, date and time 2020-03-19 4PM,\n    day Thursday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Insecurity, Unemployment: Reps Declare Emergency On Youth Development <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a man in a suit and tie giving a speech, expected likes 1, username IndependentNGR, company independent, date and time 2020-07-28 9PM,\n    day Tuesday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Edo Election: Gov Obaseki\u2019s Ward Councilor, Six Others Declare Support For Ize-Iyamu <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description jamb is a federal government agency that provides admission to students, expected likes 0, username IndependentNGR, company independent, date and time 2019-12-19 9AM,\n    day Thursday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "JAMB Abolishes N100m Allocation To State Offices <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a couple in black and gold skating, expected likes 131, username CBCOlympics, company cbc, date and time 2018-02-19 8AM,\n    day Monday, location Canada, description Canada's official Olympic and Paralympic broadcaster.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "#VirtueMoir shine in ice dance showdown with French duo \u26f8 <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description an old black and white photo of a train, expected likes 56, username metrotrains, company metro, date and time 2018-07-15 4AM,\n    day Sunday, location Melbourne, Australia, description We're here 4am-12 midnight Mon-Fri & 24 hours Sat-Sun.\nIn an emergency, contact Triple Zero (000) or our staff via the intercom. Social policy: https://t.co/61XUWaTnoD]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Photo-editing 1973 style...\n\n'We need a publicity photo of one of our Hitachi trains with no background...'\n'Righto, where's that bottle of white-out?' \n\nThankfully this isn't necessary for the new HCMT photos... #RetroMetro <hyperlink>"
+    },
+    {
+        "input": "[image description a man in a suit and glasses, expected likes 48, username EricssonIndia, company ericsson, date and time 2018-02-23 7AM,\n    day Friday, location India, description Official twitter account for Ericsson India. Helping our customers enable the full value of connectivity by creating game-changing technology and services.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "\u201cEricsson\u2019s #5G Platform can be installed on top of existing technology enabling a seamless transition to 5G from #4G.\u201d Nunzio Mirtillo, Head MOAI,   Ericsson. Catch us at Mobile World Congress where we showcase the potential of #5G #MWC18 #EricssonMWC18 <hyperlink>"
+    },
+    {
+        "input": "[image description save now with our early bird offer, expected likes 4, username CiscoANZ, company cisco, date and time 2019-10-19 1AM,\n    day Saturday, location Australia & New Zealand, description Cisco is a worldwide leader in networking that transforms how people connect, communicate and collaborate.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Registration is officially open for #CLMel 2020! Lock in the lowest price today for the ultimate IT conference heading your way in March 2020. <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a green gate with a sign that says so, expected likes 0, username IndependentNGR, company independent, date and time 2019-09-09 11PM,\n    day Monday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "SON Mulls Promotion Of Best Practices In Nigeria\u2019s Oil Sector <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description naked protein is a great source of protein, expected likes 2, username PepsiCoUKTrade, company pepsico, date and time 2018-09-12 1PM,\n    day Wednesday, location UK, description Trade news on Walkers crisps, Doritos, Sensations, Wotsits, Quavers, Monster Munch, Smiths, Quaker and other iconic brands in the UK.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Naked has introduced new Pomegranate Protein to its range. Stock the new flavour with added benefits and help your customers enjoy one of their five a day with the added protein boost! #NPD #NewProducts <hyperlink>"
+    },
+    {
+        "input": "[image description a woman's eye with a spider web tattoo, expected likes 44, username AvonInsider, company avon, date and time 2018-10-28 1AM,\n    day Sunday, location New York, description Make Life Beautiful.\n#NoAnimalTesting \ud83d\udc07]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Seeking the perfect addition to your #Halloween look? Whip up this boo-tiful spiderweb eyeliner with our black Waterproof Glimmerstick, black SuperExtend Liquid Liner, and True Color Eyeshadow Duo in Orange Crush. <hyperlink>"
+    },
+    {
+        "input": "[image description the free title updates in the future, expected likes 1256, username monsterhunter, company monster, date and time 2019-10-25 5PM,\n    day Friday, location Elgado, description Monster Hunter Wilds. Coming to PS5, Xbox Series X|S, and PC/Steam in 2025. #MHWilds \ud83d\udd27 https://t.co/xls2tvPORC\nESRB Rating: RP - T]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "\"Our goal is to fast-track development and catch up with the console updates and release them at the same time.\"\n\nSteam website is now live with a glimpse of the PC Title Update Roadmap: <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description several men sitting at a long table, expected likes 1, username IndependentNGR, company independent, date and time 2020-04-01 7PM,\n    day Wednesday, location Lagos, Nigeria, description Official Twitter handle of Independent Newspapers Nigeria, the most read newspaper among the business and political elites.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "COVID-19: Plateau Govt. Cautions Against Chloroquine Misuse, Shuts Borders <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description two people are hugging each other, expected likes 1139, username CNN, company cnn, date and time 2018-02-13 2AM,\n    day Tuesday, location nan, description It\u2019s our job to #GoThere & tell the most difficult stories. For breaking news, follow @CNNBRK and download our app https://t.co/ceNBoNi8y6]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "17-year-old Chloe Kim wins gold \ud83c\udfc5 for the US in the women's snowboard halfpipe. Live updates here: <hyperlink> (\ud83d\udcf7 by Cameron Spencer/Getty Images) <hyperlink>"
+    },
+    {
+        "input": "[image description a rapper with dreadlocks and a blue jacket, expected likes 266, username amazonmusic, company amazon, date and time 2019-07-13 4PM,\n    day Saturday, location Seattle, description Hey (with the intention of telling you that you can now listen to your favorite songs and podcasts ad-free with Amazon Prime\u203c\ufe0f)]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Happy Birthday <mention> \ud83c\udf89 Celebrate with his latest album 'The World Is Yours 2' \ud83c\udfa7: <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description two birds are swimming in the water, expected likes 1701, username NatGeo, company national geographic, date and time 2020-03-13 5PM,\n    day Friday, location Global, description Taking our understanding and awareness of the world further for more than 135 years]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Great white pelicans dive for food in this action-packed image by Your Shot photographer Yuki Nakagawa <hyperlink>"
+    },
+    {
+        "input": "[image description a man in an orange uniform is celebrating, expected likes 22, username EuroLeague, company turkish airlines, date and time 2018-03-20 9PM,\n    day Tuesday, location Europe, description The official page of the Turkish Airlines EuroLeague]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Watch the highlights of <mention> v <mention> \n\n\ud83d\udc40\u00a0<hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a woman's hands are on a laptop with icons on it, expected likes 4, username CiscoANZ, company cisco, date and time 2018-09-11 1AM,\n    day Tuesday, location Australia & New Zealand, description Cisco is a worldwide leader in networking that transforms how people connect, communicate and collaborate.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "See Cisco's <mention> bust the myths of #blockchain and explain its true potential: <hyperlink> #security <hyperlink>"
+    },
+    {
+        "input": "[image description cisco champion radio, expected likes 3, username CiscoChampion, company cisco, date and time 2020-07-12 11PM,\n    day Sunday, location nan, description Cisco Champions are passionate technology experts who share their perspectives with the community. #CiscoChampion]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Do you know how Cisco VDI solutions can keep your organization\u2019s remote workforce productive and protected? Tune in as #CiscoChampions <mention> and <mention> and Cisco expert <mention> discuss this and more.  <hyperlink> <hyperlink>"
+    },
+    {
+        "input": "[image description a rugby player is running with the ball, expected likes 91, username NEFreeJacks, company free, date and time 2020-08-18 11AM,\n    day Tuesday, location Veterans Memorial\ud83c\udfdf Quincy, MA, description Do good. Play well. Bring joy. Repping all the greatness of New England on & off field. @USMLR rugby, academy, festivals, music, & more.]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "\u2019The Battering Ram\u2019 Jack Ram joins the Free Jacks \u270d\ufe0f\u2063\n\u2063\nWelcome to New England Jack \ud83d\udc0e \ud83d\udd25 \u2063\n\u2063\n\ud83d\udd17 <hyperlink> to learn more\u2063\n\u2063\n#FreeJacks2021 #LetsRide #TogetherWeRide <hyperlink>"
+    },
+    {
+        "input": "[image description two toyota vehicles parked on a rooftop, expected likes 0, username ToyotaFinancial, company toyota, date and time 2018-10-17 6PM,\n    day Wednesday, location nan, description Official account for Toyota Financial Services (TFS) in the U.S. Learn more at https://t.co/65GWBfZ8wq]",
+        "instruction": "You are a content generator, you have to generate the tweet content based on the expected likes and other additional information.",
+        "output": "Don't be kept in the dark when it comes to your credit. Turn on your headlights and get educated on what goes into your credit score today: <hyperlink> <hyperlink>"
+    }
+]
